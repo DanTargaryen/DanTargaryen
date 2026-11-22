@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
-<title id="title">Ming Lin — Beihang University</title>
+<title id="title">Ming Lin — Research and Engineering</title>
 <desc id="desc">Video generation, world models and efficient diffusion. Three connected frames represent temporal consistency.</desc>
 <defs>
 <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e35"/><stop offset="1" stop-color="#142f41"/></linearGradient>
@@ -10,14 +10,13 @@
 <rect x="690" width="590" height="320" fill="url(#grid)"/>
 <path d="M0 319H1280" stroke="url(#line)" stroke-width="3"/>
 <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
-<text x="62" y="65" fill="#6ed8cf" font-size="14" letter-spacing="3.4">RESEARCH &amp; ENGINEERING</text>
-<text x="58" y="147" fill="#f1f6ff" font-size="66" font-weight="650" letter-spacing="-2">Ming Lin</text>
-<text x="62" y="189" fill="#b7c9dc" font-size="20">School of Software · Beihang University</text>
-<text x="62" y="262" fill="#dae7f5" font-size="18">Video generation</text>
-<circle cx="227" cy="256" r="2" fill="#6ed8cf"/>
-<text x="245" y="262" fill="#dae7f5" font-size="18">World models</text>
-<circle cx="389" cy="256" r="2" fill="#6ed8cf"/>
-<text x="407" y="262" fill="#dae7f5" font-size="18">Efficient diffusion</text>
+<text x="62" y="87" fill="#6ed8cf" font-size="14" letter-spacing="3.4">RESEARCH &amp; ENGINEERING</text>
+<text x="58" y="172" fill="#f1f6ff" font-size="66" font-weight="650" letter-spacing="-2">Ming Lin</text>
+<text x="62" y="234" fill="#dae7f5" font-size="18">Video generation</text>
+<circle cx="227" cy="228" r="2" fill="#6ed8cf"/>
+<text x="245" y="234" fill="#dae7f5" font-size="18">World models</text>
+<circle cx="389" cy="228" r="2" fill="#6ed8cf"/>
+<text x="407" y="234" fill="#dae7f5" font-size="18">Efficient diffusion</text>
 </g>
 <g fill="#172e44" stroke="#6ed8cf" stroke-width="1.3">
 <rect x="780" y="65" width="126" height="163" rx="9" opacity=".32"/>

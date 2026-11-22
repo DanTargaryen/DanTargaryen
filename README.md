@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/research-banner.svg" alt="Ming Lin — Beihang University. Video generation, world models and efficient diffusion." width="100%">
+  <img src="./assets/research-banner.svg" alt="Ming Lin — Video generation, world models and efficient diffusion." width="100%">
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### About me
 
-I'm **Ming Lin (林明)**, an undergraduate student in the **School of Software, Beihang University**.
+I'm **Ming Lin (林明)**, an undergraduate student.
 
 I work on **video generation and world models**, focusing on memory for long-horizon generation and efficient distillation of diffusion models.
 
