@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+<title id="title">Ming Lin — Beihang University</title>
+<desc id="desc">Video generation, world models and efficient diffusion. Three connected frames represent temporal consistency.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e35"/><stop offset="1" stop-color="#142f41"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#64d8cc"/><stop offset="1" stop-color="#88aef5"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#bed6ee" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1280" height="320" rx="18" fill="url(#bg)"/>
+<rect x="690" width="590" height="320" fill="url(#grid)"/>
+<path d="M0 319H1280" stroke="url(#line)" stroke-width="3"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+<text x="62" y="65" fill="#6ed8cf" font-size="14" letter-spacing="3.4">RESEARCH &amp; ENGINEERING</text>
+<text x="58" y="147" fill="#f1f6ff" font-size="66" font-weight="650" letter-spacing="-2">Ming Lin</text>
+<text x="62" y="189" fill="#b7c9dc" font-size="20">School of Software · Beihang University</text>
+<text x="62" y="262" fill="#dae7f5" font-size="18">Video generation</text>
+<circle cx="227" cy="256" r="2" fill="#6ed8cf"/>
+<text x="245" y="262" fill="#dae7f5" font-size="18">World models</text>
+<circle cx="389" cy="256" r="2" fill="#6ed8cf"/>
+<text x="407" y="262" fill="#dae7f5" font-size="18">Efficient diffusion</text>
+</g>
+<g fill="#172e44" stroke="#6ed8cf" stroke-width="1.3">
+<rect x="780" y="65" width="126" height="163" rx="9" opacity=".32"/>
+<rect x="916" y="87" width="126" height="163" rx="9" opacity=".56"/>
+<rect x="1052" y="109" width="126" height="163" rx="9" opacity=".95"/>
+</g>
+<g stroke="#8bb3ec" stroke-width="1" fill="none" opacity=".32">
+<path d="M791 208L843 159L895 208M791 208H895M843 159V78"/>
+<path d="M927 230L979 181L1031 230M927 230H1031M979 181V100"/>
+<path d="M1063 252L1115 203L1167 252M1063 252H1167M1115 203V122"/>
+<path d="M809 191L877 191M945 213H1013M1081 235H1149"/>
+</g>
+<path d="M806 160C857 79 953 242 986 173S1091 150 1150 148" fill="none" stroke="url(#line)" stroke-width="2.5"/>
+<g fill="#7ce1d3" stroke="#14283c" stroke-width="4">
+<circle cx="842" cy="139" r="6"/><circle cx="979" cy="184" r="6"/><circle cx="1116" cy="148" r="6"/>
+</g>
+<g font-family="monospace" fill="#92aec6" font-size="12">
+<text x="795" y="91">t</text><text x="931" y="113">t + 1</text><text x="1067" y="135">t + 2</text>
+</g>
+</svg>
