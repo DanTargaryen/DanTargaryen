@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/research-banner.svg" alt="Ming Lin — Video generation, world models and efficient diffusion." width="100%">
+  <img src="./assets/research-header.svg" alt="Ming Lin — Video generation, world models and efficient diffusion." width="100%">
 </p>
 
 <p align="center">
