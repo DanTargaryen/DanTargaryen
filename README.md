@@ -33,13 +33,9 @@ Real-time interactive avatar generation, streaming video editing, and spatial vi
 
 ### Selected projects
 
-**[FastVideo-Exp ↗](https://github.com/DanTargaryen/FastVideo-Exp)**  
-Experimental workspace for video generation and diffusion model distillation, built on [FastVideo](https://github.com/hao-ai-lab/FastVideo).  
-<sub>RESEARCH · Python</sub>
-
-**[VideoPlayer ↗](https://github.com/DanTargaryen/VideoPlayer)**  
-A team-built web video and live-streaming platform, with an API gateway and independent business services.  
-<sub>FULL STACK · Vue 3 · TypeScript · NestJS</sub>
+**[MemoRenderer ↗](https://dantargaryen.github.io/memorenderer-project-page/)**  
+Geometry-aligned visual memory for consistent revisits in long-horizon video generation.  
+<sub>RESEARCH · PROJECT PAGE</sub>
 
 **[Open Tabletop ↗](https://github.com/DanTargaryen/open-tabletop)**  
 Open-source browser games for single-player practice and multiplayer sessions.  
